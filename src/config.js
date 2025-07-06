@@ -12,6 +12,7 @@ import HeroDark from "./images/hero-dark.jpg";
 import Logo from "./images/baseball.jpg";
 import Weather from "./images/weather.jpg";
 import Realestate from "./images/realestate.jpg";
+import Name from "./images/name.jpg";
 
 
 /* START HERE
@@ -27,7 +28,7 @@ export const navLogo = null;
  ************************************************************** 
   Add a custom blog icon or update the hero images for the Main section.
 */
-export const Blog = "Andrew Pfeifer";
+export const Blog = Name;
 
 // Hero images (imported above - lines 8-9)
 export { HeroLight as Light };

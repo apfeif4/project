@@ -9,8 +9,8 @@ import HeroLight from "./images/hero-light.jpg";
 import HeroDark from "./images/hero-dark.jpg";
 
 // Projects Images (add your images to the images directory and import below)
-import Logo from "./images/logo.svg";
-import Baseball from "./images/baseball.jpg"
+import Logo from "./images/baseball.jpg";
+
 
 /* START HERE
  **************************************************************
@@ -103,7 +103,7 @@ export const filteredProjects = ["MLB-Analysis", "example-2", "example-3"];
 export const projectCardImages = [
   {
     name: "MLB-Analysis",
-    image: Baseball,
+    image: Logo,
   },
 ];
 

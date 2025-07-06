@@ -19,7 +19,7 @@ import Logo from "./images/baseball.jpg";
 export const githubUsername = "apfeif4";
 
 // Navbar Logo image
-export const navLogo = null;
+export const navLogo = "Andrew Pfeifer";
 
 /* Main
  ************************************************************** 

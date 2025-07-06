@@ -18,13 +18,13 @@ import Logo from "./images/logo.svg";
 export const githubUsername = "apfeif4";
 
 // Navbar Logo image
-export const navLogo = Andrew Pfeifer;
+export const navLogo = null;
 
 /* Main
  ************************************************************** 
   Add a custom blog icon or update the hero images for the Main section.
 */
-export const Blog = Andrew Pfeifer;
+export const Blog = null;
 
 // Hero images (imported above - lines 8-9)
 export { HeroLight as Light };

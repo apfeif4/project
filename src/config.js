@@ -1,4 +1,4 @@
-// Skills icons - https://icon-sets.iconify.design/
+f// Skills icons - https://icon-sets.iconify.design/
 import { Icon } from "@iconify/react";
 
 // Navbar Logo image (add your image to the src/images directory and uncomment the line below to import your image)
@@ -16,7 +16,7 @@ import Logo from "./images/baseball.jpg";
  **************************************************************
   Add your GitHub username (string - "YourUsername") below.
 */
-export const githubUsername = "Andrew Pfeifer";
+export const githubUsername = "apfeif4";
 
 // Navbar Logo image
 export const navLogo = null;

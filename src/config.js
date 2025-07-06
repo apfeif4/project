@@ -16,7 +16,7 @@ import Logo from "./images/baseball.jpg";
  **************************************************************
   Add your GitHub username (string - "YourUsername") below.
 */
-export const githubUsername = "apfeif4";
+export const githubUsername = "Andrew Pfeifer";
 
 // Navbar Logo image
 export const navLogo = null;

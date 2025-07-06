@@ -11,6 +11,7 @@ import HeroDark from "./images/hero-dark.jpg";
 // Projects Images (add your images to the images directory and import below)
 import Logo from "./images/baseball.jpg";
 import Weather from "./images/weather.jpg";
+import Realestate from "./images/realestate.jpg";
 
 
 /* START HERE
@@ -98,7 +99,7 @@ export const resume = null;
  ************************************************************** 
   List the repo names (string - "your-repo-name") you want to include (they will be sorted alphabetically). If empty, only the first 3 will be included.
 */
-export const filteredProjects = ["MLB-Analysis", "Weather-Application", "example-3"];
+export const filteredProjects = ["MLB-Analysis", "Weather-Application", "Home_Price_Prediction-Texas Home_Price_Prediction-Texas"];
 
 // Replace the defualt GitHub image for matching repos below (images imported above - lines 7-8)
 export const projectCardImages = [
@@ -109,6 +110,10 @@ export const projectCardImages = [
   {
     name: "Weather-Application",
     image: Weather,
+  },
+  {
+    name: "Home_Price_Prediction-Texas Home_Price_Prediction-Texas",
+    image: Realestate,
   },
 ];
 

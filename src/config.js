@@ -12,7 +12,7 @@ import HeroDark from "./images/hero-dark.jpg";
 import Logo from "./images/baseball.jpg";
 import Weather from "./images/weather.jpg";
 import Realestate from "./images/realestate.jpg";
-import Name from "./images/name.jpg";
+import Name from "./images/name.jpeg";
 
 
 /* START HERE

@@ -27,7 +27,7 @@ export const navLogo = null;
  ************************************************************** 
   Add a custom blog icon or update the hero images for the Main section.
 */
-export const Blog = null;
+export const Blog = "Andrew Pfeifer";
 
 // Hero images (imported above - lines 8-9)
 export { HeroLight as Light };

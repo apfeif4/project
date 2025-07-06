@@ -10,6 +10,7 @@ import HeroDark from "./images/hero-dark.jpg";
 
 // Projects Images (add your images to the images directory and import below)
 import Logo from "./images/baseball.jpg";
+import Weather from "./images/weather.jpg";
 
 
 /* START HERE
@@ -19,7 +20,7 @@ import Logo from "./images/baseball.jpg";
 export const githubUsername = "apfeif4";
 
 // Navbar Logo image
-export const navLogo = "Andrew Pfeifer";
+export const navLogo = null;
 
 /* Main
  ************************************************************** 
@@ -97,13 +98,17 @@ export const resume = null;
  ************************************************************** 
   List the repo names (string - "your-repo-name") you want to include (they will be sorted alphabetically). If empty, only the first 3 will be included.
 */
-export const filteredProjects = ["MLB-Analysis", "example-2", "example-3"];
+export const filteredProjects = ["MLB-Analysis", "Weather App", "example-3"];
 
 // Replace the defualt GitHub image for matching repos below (images imported above - lines 7-8)
 export const projectCardImages = [
   {
     name: "MLB-Analysis",
     image: Logo,
+  },
+  {
+    name: "Weather App",
+    image: Weather,
   },
 ];
 

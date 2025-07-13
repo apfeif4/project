@@ -49,8 +49,8 @@ export const moreInfo =
 export const skillData = [
   {
     id: 1,
-    skill: <Icon icon="mdi:language-html5" className="display-4" />,
-    name: "HTML5",
+    skill: <Icon icon="#cib--python" className="display-4" />,
+    name: "Python",
   },
   {
     id: 2,

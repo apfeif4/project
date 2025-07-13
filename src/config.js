@@ -49,7 +49,7 @@ export const moreInfo =
 export const skillData = [
   {
     id: 1,
-    skill: <Icon icon="#cib--python" className="display-4" />,
+    skill: <Icon icon="cib:python" className="display-4" />,
     name: "Python",
   },
   {

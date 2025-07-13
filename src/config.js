@@ -94,7 +94,7 @@ export const skillData = [
   },
   {
     id: 10,
-    skill: <Icon icon="devicon:apachespark" className="display-4" />,
+    skill: <Icon icon="simple-icons:apachespark" className="display-4" />,
     name: "PySpark",
   },
   {

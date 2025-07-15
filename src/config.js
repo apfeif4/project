@@ -39,8 +39,13 @@ export { HeroDark as Dark };
  **************************************************************
   Add a second paragraph for the about me section.
 */
-export const moreInfo =
-  "I enjoy learning about technology and helping others use it to improve their lives and be more productive. I built this site with React, React Bootstrap, Redux, and the GitHub REST API.";
+export const moreInfo = "Hi! I’m Andrew Pfeifer, a data enthusiast with a passion for transforming complex data into clear, actionable insights. With a strong background in statistics, programming, and machine learning, I enjoy working on projects that turn raw data into meaningful stories and drive informed decision-making.
+
+My interests span data visualization, predictive modeling, and real-world applications of AI. Whether it’s building interactive dashboards, optimizing algorithms, or exploring new datasets, I’m motivated by curiosity and the challenge of solving problems with data.
+
+I’m always eager to learn new tools, experiment with emerging techniques, and collaborate with others who share an excitement for data-driven discovery. Beyond coding and analysis, I value communication—translating technical findings into results that stakeholders and teams can easily understand.
+
+Feel free to explore my portfolio to see some of my recent projects, and don’t hesitate to reach out if you’d like to connect or collaborate!"
 
 /* Skills
  ************************************************************** 

@@ -122,6 +122,7 @@ export const projectCardImages = [
   {
     name: "MLB_Analysis",
     image: Logo,
+    desciption: "The primary goal of this project is to collect, clean, and analyze MLB data from multiple sources to determine whether the insights derived could potentially inform or improve sports betting strategies."
   },
   {
     name: "Weather_Application",

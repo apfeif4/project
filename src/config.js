@@ -16,13 +16,13 @@ import Netflix from "./images/netflix.jpg";
 import Cancer from "./images/cancer.jpg";
 import Car from "./images/car.jpg";
 import Child from "./images/child.jpg";
-import Customer from "./images/customer.jpg";
+import Customer from "./images/customer.jpeg";
 import Energy from "./images/energy.jpg";
-import Fraud from "./images/fraud.jpg";
+import Fraud from "./images/fraud.jpeg";
 import House from "./images/house.jpg";
 import Image from "./images/image.jpg";
-import Loan from "./images/loan.jpg";
-import Nifi from "./images/nifi.jpg";
+import Loan from "./images/loan.jpeg";
+import Nifi from "./images/nifi.jpeg";
 
 
 /* START HERE

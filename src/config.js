@@ -13,16 +13,16 @@ import Logo from "./images/baseball.jpg";
 import Weather from "./images/weather.jpg";
 import Realestate from "./images/realestate.jpg";
 import Netflix from "./images/netflix.jpg";
-import cancer from "./images/cancer.jpg";
-import car from "./images/car.jpg";
-import child from "./images/child.jpg";
-import customer from "./images/customer.jpg";
-import energy from "./images/energy.jpg";
-import fraud from "./images/fraud.jpg";
-import house from "./images/house.jpg";
-import image from "./images/image.jpg";
-import loan from "./images/loan.jpg";
-import nifi from "./images/nifi.jpg";
+import Cancer from "./images/cancer.jpg";
+import Car from "./images/car.jpg";
+import Child from "./images/child.jpg";
+import Customer from "./images/customer.jpg";
+import Energy from "./images/energy.jpg";
+import Fraud from "./images/fraud.jpg";
+import House from "./images/house.jpg";
+import Image from "./images/image.jpg";
+import Loan from "./images/loan.jpg";
+import Nifi from "./images/nifi.jpg";
 
 
 /* START HERE
@@ -149,43 +149,43 @@ export const projectCardImages = [
   },
   {
     name: "Credit_Card_Fraud_Detection_Logistic_Regression",
-    image: fraud,
+    image: Fraud,
   },
   {
     name: "Childcare_in_the_Workplace_EDA",
-    image: child,
+    image: Child,
   },
   {
     name: "White_House_Logs_EDA",
-    image: house,
+    image: House,
   },
   {
     name:  "Car_Theft_EDA",
-    image: car
+    image: Car
   },
   {
     name: "Customer_Segmentation_K-Means",
-    image: customer,
+    image: Customer,
   },
   {
     name: "Electrical_and_Solar_Usage_Time_Series",
-    image: energy
+    image: Energy
   },
   {
     name: "Loan_approval_Random_Forest",
-    image: loan,
+    image: Loan,
   },
   {
     name: "Continuous_Pipeline_NiFi_to_HBase",
-    image: nifi,
+    image: Nifi,
   },
   {
     name: "CNN_Image_Classifier",
-    image: image,
+    image: Image,
   },
   {
-    name:  "Cancer_Analysis"],
-    image: cancer
+    name:  "Cancer_Analysis",
+    image: Cancer
   },
 ];
 

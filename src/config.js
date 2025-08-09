@@ -23,6 +23,7 @@ import House from "./images/house.jpg";
 import Image from "./images/image.jpg";
 import Loan from "./images/loan.jpeg";
 import Nifi from "./images/nifi.jpeg";
+import Empty from "./images/logo.svg";
 
 
 /* START HERE
@@ -32,7 +33,7 @@ import Nifi from "./images/nifi.jpeg";
 export const githubUsername = "apfeif4";
 
 // Navbar Logo image
-export const navLogo = null;
+export const navLogo = Empty;
 
 /* Main
  ************************************************************** 

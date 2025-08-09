@@ -13,7 +13,16 @@ import Logo from "./images/baseball.jpg";
 import Weather from "./images/weather.jpg";
 import Realestate from "./images/realestate.jpg";
 import Netflix from "./images/netflix.jpg";
-
+import cancer from "./images/cancer.jpg";
+import car from "./images/car.jpg";
+import child from "./images/child.jpg";
+import customer from "./images/customer.jpg";
+import energy from "./images/energy.jpg";
+import fraud from "./images/fraud.jpg";
+import house from "./images/house.jpg";
+import image from "./images/image.jpg";
+import loan from "./images/loan.jpg";
+import nifi from "./images/nifi.jpg";
 
 
 /* START HERE
@@ -115,14 +124,16 @@ export const resume = null;
  ************************************************************** 
   List the repo names (string - "your-repo-name") you want to include (they will be sorted alphabetically). If empty, only the first 3 will be included.
 */
-export const filteredProjects = ["MLB_Analysis", "Weather_Application", "Home_Price_Prediction_For_Texas", "Netflix_Viewership_EDA"];
+export const filteredProjects = ["MLB_Analysis", "Weather_Application", "Home_Price_Prediction_For_Texas", "Netflix_Viewership_EDA", 
+                                "Credit_Card_Fraud_Detection_Logistic_Regression", "Childcare_in_the_Workplace_EDA", "White_House_Logs_EDA", 
+                                "Car_Theft_EDA", "Customer_Segmentation_K-Means", "Electrical_and_Solar_Usage_Time_Series", 
+                                "Loan_approval_Random_Forest", "Continuous_Pipeline_NiFi_to_HBase", "CNN_Image_Classifier", "Cancer_Analysis"];
 
 // Replace the defualt GitHub image for matching repos below (images imported above - lines 7-8)
 export const projectCardImages = [
   {
     name: "MLB_Analysis",
     image: Logo,
-    desciption: "The primary goal of this project is to collect, clean, and analyze MLB data from multiple sources to determine whether the insights derived could potentially inform or improve sports betting strategies."
   },
   {
     name: "Weather_Application",
@@ -135,6 +146,46 @@ export const projectCardImages = [
   {
     name: "Netflix_Viewership_EDA",
     image: Netflix
+  },
+  {
+    name: "Credit_Card_Fraud_Detection_Logistic_Regression",
+    image: fraud,
+  },
+  {
+    name: "Childcare_in_the_Workplace_EDA",
+    image: child,
+  },
+  {
+    name: "White_House_Logs_EDA",
+    image: house,
+  },
+  {
+    name:  "Car_Theft_EDA",
+    image: car
+  },
+  {
+    name: "Customer_Segmentation_K-Means",
+    image: customer,
+  },
+  {
+    name: "Electrical_and_Solar_Usage_Time_Series",
+    image: energy
+  },
+  {
+    name: "Loan_approval_Random_Forest",
+    image: loan,
+  },
+  {
+    name: "Continuous_Pipeline_NiFi_to_HBase",
+    image: nifi,
+  },
+  {
+    name: "CNN_Image_Classifier",
+    image: image,
+  },
+  {
+    name:  "Cancer_Analysis"],
+    image: cancer
   },
 ];
 
